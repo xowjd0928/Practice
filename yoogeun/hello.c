@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+#define PIN 19
 int main()
 {
-	printf("hi git");
+	printf("uuuhi git");
 	return 0;
 }
