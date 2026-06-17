@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PIN 18
+#define PIN 17
 
 int main(void){
 	printf("PIN is %d\n", PIN);
